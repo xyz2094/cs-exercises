@@ -3,7 +3,7 @@ using System.Xml.Schema;
 
 namespace first_steps
 {
-  public class ex1
+  public class Program
   {
     static void Main()
     {

@@ -2,7 +2,7 @@ using System.Xml.Schema;
 
 namespace first_steps
 {
-  public class ex1
+  public class Program
   {
     static void Main()
     {
@@ -10,7 +10,7 @@ namespace first_steps
 
       System.Console.Write("Enter your grade: ");
       int.TryParse(System.Console.ReadLine(), out grade);
-      if (grade >= 60)
+      if (grade >= 6.0)
       {
         System.Console.WriteLine("You passed the exam.");
       }
