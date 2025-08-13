@@ -12,5 +12,5 @@ terminal.
 How to run: 
 
 ```
-dotnet run
+> dotnet run
 ```
