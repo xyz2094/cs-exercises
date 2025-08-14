@@ -8,7 +8,7 @@ namespace aug13
       {
         System.Console.WriteLine($"{i}...");
       }
-      System.Console.WriteLine("\nLAUCNHED!!!!");
+      System.Console.WriteLine("\nLAUNCHED!!!!");
     }
   }
 }
