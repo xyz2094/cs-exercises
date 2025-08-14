@@ -13,7 +13,7 @@ namespace aug13
       };
       foreach (string song in songs)
       {
-        if (song == "Sweet Child O' Mine")
+        if (song == "Chelsea Smile")
         {
           Console.WriteLine($"{song} - This one is a banger!");
         }
